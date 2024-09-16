@@ -3,12 +3,15 @@ name: "\U0001F31F New Feature request"
 about: Suggest an idea for this project
 title: ''
 labels: bug
-assignees: KarimMutwally
+assignees: ''
 
 ---
 
 **Is your feature request related to a problem? Please describe.**
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+
+**Page URL**
+If your requested feature is related to a page, please specify.
 
 **Describe the solution you'd like**
 A clear and concise description of what you want to happen.

@@ -3,9 +3,12 @@ name: "\U0001F41E Mobile Bug testing report"
 about: Create a report to help us improve
 title: ''
 labels: bug, mobile-bug
-assignees: abdallahn
+assignees: ''
 
 ---
+
+**Environment**
+Which API server did the bug occur when connected to?
 
 **Describe the bug**
 A clear and concise description of what the bug is.
@@ -19,6 +22,9 @@ Steps to reproduce the behavior:
 
 **Expected behavior**
 A clear and concise description of what you expected to happen.
+
+**Actual Behavior**
+A clear and concise description of what actually happened instead of the expected behavior.
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
