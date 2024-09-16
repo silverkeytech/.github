@@ -14,6 +14,7 @@ body:
       options:
         - Incorso
         - Demoday
+        - New Demoday
         - Client server
         - Other, specify in additional context field
     validations:
