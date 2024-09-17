@@ -1,6 +1,6 @@
 name: 📱 Mobile Bug Report
 description: File a bug report for the mobile app or web portal on mobile.
-title: "[Bug]: "
+title: "[Mobile]: "
 labels: ["bug", "mobile-bug"]
 projects: []
 assignees: []
